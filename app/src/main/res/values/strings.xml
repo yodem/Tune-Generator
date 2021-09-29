@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TinWhistle</string>
+    <string name="title">Tin Whistle Tools</string>
+    <string name="note_hint">Please Enter Notes</string>
+    <string name="enter_notes">Enter Notes</string>
+    <string name="submit">Submit</string>
+    <string name="down">Down</string>
+    <string name="up">Up</string>
+    <string name="entrance_title">Tin Whistler</string>
+    <string name="create_a_tune">Create A Tune</string>
+    <string name="type_your_tune_notes">Type Your Tune Notes</string>
+</resources>
